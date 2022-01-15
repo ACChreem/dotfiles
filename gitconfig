@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = carolinachreem@gmail.com
+	name = carol chreem
